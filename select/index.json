@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "oxygen",
+  "base_artist": "TOOBOE",
+  "createdAt": "2026-02-08T03:44:03.595577Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Oxygen (feat. Paul Aiden)",
+      "artist": "Chicane feat. Paul Aiden",
+      "has_synced": true,
+      "path": "select/01_Oxygen_(feat._Paul_Aiden)_Chicane_feat._Paul_Aiden.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Oxygen (feat. Paul Aiden)",
+      "artist": "Chicane",
+      "has_synced": true,
+      "path": "select/02_Oxygen_(feat._Paul_Aiden)_Chicane.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Oxygen Red",
+      "artist": "Enigma feat. Anggun",
+      "has_synced": true,
+      "path": "select/03_Oxygen_Red_Enigma_feat._Anggun.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Oxygen Red",
+      "artist": "Enigma Anggun",
+      "has_synced": true,
+      "path": "select/04_Oxygen_Red_Enigma_Anggun.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Oxygen",
+      "artist": "Nik Kershaw",
+      "has_synced": false,
+      "path": "select/05_Oxygen_Nik_Kershaw.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Oxygen",
+      "artist": "Chicane feat. Paul Aiden",
+      "has_synced": false,
+      "path": "select/06_Oxygen_Chicane_feat._Paul_Aiden.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Oxygen Restriction",
+      "artist": "The Shamen",
+      "has_synced": false,
+      "path": "select/07_Oxygen_Restriction_The_Shamen.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Oxygen",
+      "artist": "Martin Garrix feat. DubVision & Jordan Grace",
+      "has_synced": true,
+      "path": "select/08_Oxygen_Martin_Garrix_feat._DubVision_&_Jordan_Grace.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Oxygen",
+      "artist": "Martin Garrix",
+      "has_synced": true,
+      "path": "select/09_Oxygen_Martin_Garrix.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Oxygen",
+      "artist": "BONES",
+      "has_synced": true,
+      "path": "select/10_Oxygen_BONES.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Canned Oxygen",
+      "artist": "The Halo Benders",
+      "has_synced": true,
+      "path": "select/11_Canned_Oxygen_The_Halo_Benders.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Oxygen",
+      "artist": "Beach Bunny",
+      "has_synced": false,
+      "path": "select/12_Oxygen_Beach_Bunny.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Oxygen",
+      "artist": "New Found Glory",
+      "has_synced": true,
+      "path": "select/13_Oxygen_New_Found_Glory.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "American Oxygen",
+      "artist": "Rihanna",
+      "has_synced": false,
+      "path": "select/14_American_Oxygen_Rihanna.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Oxygen",
+      "artist": "Colbie Caillat",
+      "has_synced": true,
+      "path": "select/15_Oxygen_Colbie_Caillat.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Oxygen",
+      "artist": "Colbie Caillat",
+      "has_synced": true,
+      "path": "select/16_Oxygen_Colbie_Caillat.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Oxygen",
+      "artist": "Spice Girls",
+      "has_synced": true,
+      "path": "select/17_Oxygen_Spice_Girls.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Salt Silver Oxygen (Live At Arena di Verona / 2013)",
+      "artist": "Antony",
+      "has_synced": true,
+      "path": "select/18_Salt_Silver_Oxygen_(Live_At_Arena_di_Verona___2013)_Antony.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Salt Silver Oxygen (Live At Arena Di Verona \u0000 2013)",
+      "artist": "Antony",
+      "has_synced": true,
+      "path": "select/19_Salt_Silver_Oxygen_(Live_At_Arena_Di_Verona_\u0000_2013)_Antony.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "oxygen",
+      "artist": "TOOBOE",
+      "has_synced": false,
+      "path": "select/pl_01_oxygen_TOOBOE.txt"
+    }
+  ]
+}
